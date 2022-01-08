@@ -14,7 +14,7 @@ The benefits each class provides, and what niche they fill.
 
 A list of potential starting goals to improve your team's fighting strength
 
-[3_Upgrading](3_Upgrades)
+[3_Upgrading](3_Upgrading)
 
 Some of the more complex elements of upgrading, such as failstacking.
 
