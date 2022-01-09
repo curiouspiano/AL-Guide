@@ -1,8 +1,12 @@
 # AL-Guide
 
+## Disclaimer
+
 This repo will be a guide from the perspective of a player. It will include things that are nice to know when starting to play AdventureLand, as well as some some useful code snippets.
 
-This repo will NOT include a client, or standalone code to run your characters.
+This guide is not intended to be a walkthrough. A big part of AL is finding *your* way through the game. The primary goal of this guide is to document things that we, as players, think is good information for new players to know.
+
+This repo **WILL NOT** include a client, or standalone code to run your characters.
 
 ## Sections
 
@@ -21,3 +25,7 @@ Some of the more complex elements of upgrading, such as failstacking.
 [8_ThirdPartyClients](8_ThirdPartyClients)
 
 An index of the most used third party clients, and their individual benefits.
+
+[9_CommunityResources](9_CommunityResources)
+
+A list of community resources that may be helpful.
