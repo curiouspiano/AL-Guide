@@ -29,3 +29,8 @@ An index of the most used third party clients, and their individual benefits.
 [9_CommunityResources](9_CommunityResources)
 
 A list of community resources that may be helpful.
+
+## Contributions
+Feel free to contribute to this guide in any capacity you see fit. 
+
+I only ask that new sections be mentioned/discussed prior to creating a PR. Feel free to reach out to `Bsep#0001` on discord, or message me here.
